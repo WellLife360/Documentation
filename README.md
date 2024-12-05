@@ -10,24 +10,17 @@ Project Overview
 
 1.1 Project Summary:
 WellLife360 is a technology initiative dedicated to improving overall health and well-being by providing essential information on nutrition, fitness, recreational activities, and mental wellness. The platform helps individuals make informed decisions about leading a healthy and balanced lifestyle.
-
 For recreational activities, the application offers detailed information about specific events and opportunities at NBSC, including schedules, descriptions, and participation details. It also features a dynamic map highlighting locations where most recreational activities occur at NBSC, making it easier for users to explore and engage in wellness-focused experiences.
-
 By connecting people to reliable resources and community activities, WellLife360 ensures a holistic approach to health, fostering both individual and collective well-being.
-
 
 1.2 Project Objectives:
 To develop a user-friendly application under WellLife360 that provides a dynamic card system for recreational activities at Northern Bukidnon State College (NBSC). The cards display relevant details about various activities, allowing users to filter options using a search button.  
-
 Once a user selects a specific activity by clicking the "Click Me if Interested" button, the application will render detailed information about the activity, such as its description, schedule, and benefits. Additionally, it will display a map of NBSC with pins marking the locations where these activities commonly take place, ensuring users can easily navigate and engage in wellness-focused experiences.
 
 2.1 Outputs:
-Clickable Map
-Clickable Map
+Clickable Map:
 A clickable computer-generated map that visually represents the locations of recreational activities across the NBSC campus. Activity pins are displayed on the map, allowing users to easily identify where specific events or facilities are located.
-
 The map includes built-in functionalities, such as GPS integration, to ensure accurate positioning and navigation within the campus. The application is mobile-friendly and accessible through any app or browser interface, offering convenience to users on the go.
-
 A search bar will be included so that the user can search and be aware on recreational activities happening at NBSC 
 
 3.1 Project Plan
@@ -42,11 +35,13 @@ A search bar will be included so that the user can search and be aware on recrea
 - Added educational information about person's nutrition, health, and mental well-being
 - A search bar to render the recreational activity card
 
+
+
+
+
 Summary:
 A user-friendly digital map that visually displays the locations of various recreational activities at the NBSC campus. Recreational activity points are highlighted with unique icons for easy identification.  
-
 Users can click on a specific activity card from the card that has a button "Click if interested" to view the map of NBSC where most recreational activities happen, detailed information about the event, schedule, and purpose. 
-
 The map includes built-in GPS functionality for accurate positioning and navigation around the campus. 
 
 Search Functionality and Activity Details:
