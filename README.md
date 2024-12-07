@@ -15,7 +15,7 @@ By connecting people to reliable resources and community activities, WellLife360
 
 1.2 Project Objectives:
 To develop a user-friendly application under WellLife360 that provides a dynamic card system for recreational activities at Northern Bukidnon State College (NBSC). The cards display relevant details about various activities, allowing users to filter options using a search button.  
-Once a user selects a specific activity by clicking the "Click Me if Interested" button, the application will render detailed information about the activity, such as its description, schedule, and benefits. Additionally, it will display a map of NBSC with pins marking the locations where these activities commonly take place, ensuring users can easily navigate and engage in wellness-focused experiences.
+Once a user hover the pin in the map, the application will render detailed information about the activity, such as its description, schedule, and benefits. Additionally, it will display a map of NBSC with pins marking the locations where these activities commonly take place, ensuring users can easily navigate and engage in wellness-focused experiences.
 
 2.1 Outputs:
 Clickable Map:
